@@ -1,0 +1,14 @@
+{
+  "name": "XML2JSONGolf",
+  "version": "1.0.0",
+  "description": "Write JS Functions to convert XML<->JSON in as little code as possible",
+  "main": "XML2JSON.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Peabnuts123",
+  "license": "ISC",
+  "dependencies": {
+    "underscore": "^1.8.3"
+  }
+}

@@ -1,0 +1,37 @@
+<houses>
+	<house>
+		<location>
+			<x>35</x>
+			<y>-82</y>
+		</location>
+		<name>House</name>
+		<windows>
+			<window>
+				<type>cross</type>
+				<floor>1</floor>
+			</window>
+			<window>
+				<type>cross</type>
+				<floor>2</floor>
+			</window>
+			<window>
+				<type>cross</type>
+				<floor>2</floor>
+			</window>
+			<window>
+				<type>plain</type>
+				<floor>1</floor>
+			</window>
+		</windows>
+		<doors>
+			<door>
+				<location>front</location>
+				<lockable>true</lockable>
+			</door>
+			<door>
+				<location>rear</location>
+				<lockable>true</lockable>
+			</door>
+		</doors>
+	</house>
+</houses>
